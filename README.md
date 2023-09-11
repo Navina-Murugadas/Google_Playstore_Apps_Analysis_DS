@@ -58,6 +58,9 @@ The dataset contains the following info:
 # Tableau Dashboard:
 ![GooglePlayStore Apps Dashboard](https://github.com/Navina-Murugadas/Google_Playstore_Apps_Analysis_DS/assets/72821323/1ce60598-4088-4f05-84a5-85603f3d4688)
 
+# Tableau Dashboard link:
+https://public.tableau.com/views/GooglePlayStoreAppsDashboard_16942860354220/GooglePlayStoreAppsDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 
 
